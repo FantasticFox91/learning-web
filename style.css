@@ -1,0 +1,38 @@
+/*selector {
+	property: value;
+}*/
+.col{
+	background-color: grey;
+	border: 2px solid black;
+}
+.navbar-brand{
+	width:100px;
+	height: 50px;
+	padding: 3px 0px; 
+}
+nav {
+	background-color: black;
+}
+h6{
+	text-align: center;
+	font-size: 15px;
+}
+.card{
+	margin-left: 10px;
+}
+content a{
+	text-decoration: none;
+}
+content a:hover{
+	text-decoration: none;
+}
+content img{
+	transition: all 1s ease;
+}
+content img:hover{
+	transform: scale(1.05);
+}
+content ul li{
+	display: inline-block;
+	list-style-type: none;
+}
