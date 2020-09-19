@@ -36,3 +36,27 @@ content ul li{
 	display: inline-block;
 	list-style-type: none;
 }
+img{
+	width:286px;
+	height: 422.266px;
+}
+content ul{
+	margin-top: 40px;
+	
+}
+body{
+	background-color: #342B4B;
+}
+.card{
+	border: 1px solid black;
+	margin: 5px;
+	border-radius: 10px;
+}
+.sticky{
+	position: fixed;
+	width:100%;
+	z-index: 1;
+}
+.navbar{
+	background-color: rgba(78,81,87,0.8);
+}
